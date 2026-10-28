@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-10-28T19:43:17.675Z",
+  "date": "2026-10-28",
+  "universe_size": 45,
+  "insiders": {
+    "summary": "0 clusters · 0 single buys",
+    "results": {
+      "clusters": [],
+      "watchable": []
+    }
+  },
+  "earnings": {
+    "summary": "0 tickers w/ 4+ beats",
+    "results": []
+  },
+  "sectors": {
+    "summary": "Leader: XLK 0.00%",
+    "results": [
+      {
+        "t": "XLK",
+        "n": "Tech",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "XLF",
+        "n": "Financials",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "XLE",
+        "n": "Energy",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "XLV",
+        "n": "Healthcare",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "XLY",
+        "n": "Cons disc",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "XLP",
+        "n": "Cons staples",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "XLI",
+        "n": "Industrials",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "XLB",
+        "n": "Materials",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "XLU",
+        "n": "Utilities",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "XLRE",
+        "n": "Real estate",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "XLC",
+        "n": "Comm svcs",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "SPY",
+        "n": "S&P 500",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "QQQ",
+        "n": "Nasdaq 100",
+        "c": null,
+        "dp": null
+      },
+      {
+        "t": "IWM",
+        "n": "Russell 2k",
+        "c": null,
+        "dp": null
+      }
+    ]
+  },
+  "news": {
+    "summary": "0 headlines",
+    "results": []
+  }
+}
